@@ -1,1 +1,1 @@
-# varsity
+# varsity-clone
